@@ -37,7 +37,7 @@ Vercel | Render | GitHub Pages
 ## 🌐 Connect With Me
 - LinkedIn: [palak-6779b0337]
 - Instagram: [_palak.mehta]
-- Email: your@email.com## Hi there 👋
+- Email: mehtachanchal484@gmail.com## Hi there 👋
 
 <!--
 **PALAK669/PALAK669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
