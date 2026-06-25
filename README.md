@@ -35,7 +35,6 @@ Vercel | Render | GitHub Pages
 ---
 
 ## 🌐 Connect With Me
-## 🌐 Connect With Me
 
 - LinkedIn: [palak-6779b0337](https://linkedin.com/in/palak-6779b0337)
 - Instagram: [_palak.mehta](https://instagram.com/_palak.mehta)
